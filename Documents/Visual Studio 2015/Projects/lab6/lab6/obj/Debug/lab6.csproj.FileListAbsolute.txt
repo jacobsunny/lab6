@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6\bin\Debug\lab6.exe.config
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6\bin\Debug\lab6.exe
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6\bin\Debug\lab6.pdb
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6\obj\Debug\lab6.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6\obj\Debug\lab6.exe
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6\obj\Debug\lab6.pdb

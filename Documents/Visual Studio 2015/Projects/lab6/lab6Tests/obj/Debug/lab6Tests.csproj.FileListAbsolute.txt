@@ -1,0 +1,8 @@
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6Tests\bin\Debug\lab6Tests.dll
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6Tests\bin\Debug\lab6Tests.pdb
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6Tests\bin\Debug\lab6.exe
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6Tests\bin\Debug\lab6.pdb
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6Tests\obj\Debug\lab6Tests.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6Tests\obj\Debug\lab6Tests.dll
+\\mac\home\documents\visual studio 2015\Projects\lab6\lab6Tests\obj\Debug\lab6Tests.pdb

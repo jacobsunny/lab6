@@ -1,0 +1,8 @@
+\\mac\home\documents\visual studio 2015\Projects\lab6\ticktacktoetest\bin\Debug\ticktacktoetest.dll
+\\mac\home\documents\visual studio 2015\Projects\lab6\ticktacktoetest\bin\Debug\ticktacktoetest.pdb
+\\mac\home\documents\visual studio 2015\Projects\lab6\ticktacktoetest\bin\Debug\lab6.exe
+\\mac\home\documents\visual studio 2015\Projects\lab6\ticktacktoetest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\mac\home\documents\visual studio 2015\Projects\lab6\ticktacktoetest\bin\Debug\lab6.pdb
+\\mac\home\documents\visual studio 2015\Projects\lab6\ticktacktoetest\obj\Debug\ticktacktoetest.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\lab6\ticktacktoetest\obj\Debug\ticktacktoetest.dll
+\\mac\home\documents\visual studio 2015\Projects\lab6\ticktacktoetest\obj\Debug\ticktacktoetest.pdb
